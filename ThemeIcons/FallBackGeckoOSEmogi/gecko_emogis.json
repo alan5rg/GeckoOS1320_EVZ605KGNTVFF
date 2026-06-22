@@ -1,0 +1,74 @@
+{
+    "brave": {
+        "symbol": "[@]",
+        "font_size": 132
+    },
+    "firefox": {
+        "symbol": "[@]",
+        "font_size": 132
+    },
+    "terminal": {
+        "symbol": ">_",
+        "font_size": 196
+    },
+    "subsystem": {
+        "symbol": "[#]",
+        "font_size": 132
+    },
+    "config": {
+        "symbol": "[-]",
+        "font_size": 132
+    },
+    "displaysettings": {
+        "symbol": "[o]",
+        "font_size": 132
+    },
+    "geckowallsettings": {
+        "symbol": "[*]",
+        "font_size": 132
+    },
+    "thunar": {
+        "symbol": "[/]",
+        "font_size": 132
+    },
+    "calc": {
+        "symbol": "[+]",
+        "font_size": 132
+    },
+    "calculadora": {
+        "symbol": "[+]",
+        "font_size": 132
+    },
+    "geckonotes": {
+        "symbol": "[:)]",
+        "font_size": 96
+    },
+    "vscode": {
+        "symbol": "[VS//>]",
+        "font_size": 56
+    },
+    "gimp": {
+        "symbol": ":P",
+        "font_size": 196
+    },
+    "salir": {
+        "symbol": "[X]",
+        "font_size": 132
+    },
+    "hmx": {
+        "symbol": "[&]",
+        "font_size": 132
+    },
+    "tit": {
+        "symbol": "[!]",
+        "font_size": 132
+    },
+    "gamp": {
+        "symbol": "[-.-]",
+        "font_size": 76
+    },
+    "geckolaunckerIconPack": {
+        "symbol": "[o.o]",
+        "font_size": 76
+    }
+}
