@@ -1,0 +1,4 @@
+para ejecutar geckolinks en sistemas linux
+debe autorizarlos en terminal:
+
+chmod +x geckolink_*.sh
